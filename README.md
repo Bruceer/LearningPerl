@@ -1,2 +1,3 @@
-# LearningPerl
-Learning Perl Language with the book Leaning Perl.
+# 《Perl语言入门》
+
+使用的是第五版、中文版。
