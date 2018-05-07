@@ -1,0 +1,17 @@
+# Perl在ASIC中的应用合集（1）—— 基础篇
+
+## Perl中变量分为标量scalar、数组array、哈希数组hash
+
+- 标量scalar
+  my $name = "bill"
+
+- 数组array
+  my @modules = ("top", "sub_module_a", "sub_module_b");
+  my @filelist = ();
+  $modules[0]
+  
+- 哈希数组hash（把他当成字典就好）
+  my %dict = (
+              "book"   => "a set of pages that have been fastened together inside a cover to be read or written in",
+              "People" => "men, women and children"
+              );
